@@ -3,8 +3,6 @@
 ## Introduction
 Subscription Management System API that handles real users, real money, and real business logic. This service authenticates users using JWTs, connects to a MongoDB database, defines models and schemas with Mongoose, and provides a scalable architecture for seamless communication with frontend clients.
 
-Having trouble getting started or running into bugs? Join our active Discord community of over **50k+ members** for help and support!
-
 ## Tech Stack
 - **Node.js**
 - **Express.js**
